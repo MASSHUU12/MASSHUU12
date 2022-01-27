@@ -1,29 +1,25 @@
 ![Banner](https://user-images.githubusercontent.com/61974579/146420144-72a8348b-a9a4-4df8-bec0-b6752b3204bf.png)
 
-<div align="center">
-    <h1>Hello there!</h1>
-    <p align="left">I am a junior web developer, I do well with both frontend and backend of websites. I like to try new things like frameworks, libraries as well as languages. Prototyping and creating designs is not a stranger to me either. Every day I try to learn new things and use them to improve previous projects.</p>
-</div>
-
-<br />
-
-# Connect with me
+<h1 align="center">Hello there!</h1>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats#themes -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-gawrysiak)
-[![Protonmail](https://img.shields.io/badge/gawrysiak.maciej@pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gawrysiak.maciej@pm.me)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/MASSHUU)
+[![LinkedIn](https://img.shields.io/badge/Maciej_Gawrysiak-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/maciej-gawrysiak)
+[![Protonmail](https://img.shields.io/badge/gawrysiak.maciej@pm.me-30302f?style=flat&logo=protonmail)](mailto:gawrysiak.maciej@pm.me)
+[![Telegram](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](t.me/MASSHUU)
+
+- 🔭 I'm currently working on PHP projects
+- 🌱 I'm currently mastering Laravel framework
+- 👯 I would love to join some interesting project
+- ❤ My favorite language is Python (although I practically don't use it 😿)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MASSHUU12&theme=radical)
 
 <br />
 
 # Technical skills
-
-<br />
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MASSHUU12&theme=radical)
 
 <br />
 
