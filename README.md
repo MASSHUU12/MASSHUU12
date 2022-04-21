@@ -17,7 +17,7 @@
 <br />
 
 <h1 align=center>
-  Hello there
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=FFFFFF&center=true&vCenter=true&width=135&height=35&lines=Hello+There!" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -28,19 +28,22 @@
 <hr />
 <br />
 
-## About me:
+```text
+> About me:
+```
 
-- 🔭 I'm currently working on PHP projects
-- 🌱 I'm currently mastering Laravel framework
-- 👯 I would love to join some interesting project
-- ❤ My favorite language is Python (although I practically don't use it 😿)
+- 🌱 I'm junior fullstack developer
+- 🔭 I mostly write in PHP and JS
+- 3D graphics, web/UI design
 
 <br />
 
-## Languages & Tools:
+```text
+> Languages & Tools:
+```
 
 <div>
-  <h3>Frontend</h3>
+  <h5>Frontend:</h5>
   <a href="https://www.linkedin.com/in/maciej-gawrysiak">
     <img src="https://img.shields.io/badge/HTML5-blue?logoColor=white&style=for-the-badge" />
   </a>
@@ -59,7 +62,7 @@
 </div>
 
 <div>
-  <h3>Backend</h3>
+  <h5>Backend:</h5>
   <a href="https://www.linkedin.com/in/maciej-gawrysiak">
     <img src="https://img.shields.io/badge/PHP-blue?logoColor=white&style=for-the-badge" />
   </a>
@@ -78,7 +81,7 @@
 </div>
 
 <div>
-  <h3>Other</h3>
+  <h5>Other:</h5>
   <a href="https://www.linkedin.com/in/maciej-gawrysiak">
     <img src="https://img.shields.io/badge/Python-blue?logoColor=white&style=for-the-badge" />
   </a>
@@ -88,7 +91,7 @@
 </div>
 
 <div>
-  <h3>Tools</h3>
+  <h5>Tools:</h5>
   <a href="https://www.linkedin.com/in/maciej-gawrysiak">
     <img src="https://img.shields.io/badge/Composer/NPM-blue?logoColor=white&style=for-the-badge" />
   </a>
@@ -109,10 +112,14 @@
   </a>
 </div>
 
-### \*I don't have much experience with such labeled items
+##### \*I don't have much experience with such labeled items
 
 <br />
 
-## :fire: My stats:
+```text
+> My stats:
+```
+
+<br />
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MASSHUU12&theme=radical)
