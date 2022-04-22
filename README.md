@@ -32,9 +32,10 @@
 > About me:
 ```
 
-- 🌱 I'm junior fullstack developer
-- 🔭 I mostly write in PHP and JS
-- 3D graphics, web/UI design
+- :school: I am a `junior` fullstack developer
+- :student: I am eager to `learn` something new
+- 🔭 I mostly write in `PHP` and `JS`
+- :computer: I like `3D graphics`, and web/UI `design`
 
 <br />
 
