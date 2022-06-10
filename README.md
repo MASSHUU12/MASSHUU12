@@ -18,7 +18,7 @@
 
 <h1 align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=FFFFFF&center=true&vCenter=true&width=135&height=35&lines=Hello+There!" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/>
 </h1>
 
 <div align="center">
