@@ -9,8 +9,8 @@
   <a href="mailto:gawrysiak.maciej@pm.me">
     <img src="https://img.shields.io/badge/EMAIL-red?logo=protonmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white&style=for-the-badge" />
+  <a href="https://www.masshuu12.github.io">
+    <img src="https://img.shields.io/badge/WEBSITE-blue?logo=about.me&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
@@ -21,104 +21,60 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/61974579/162798220-de003301-338b-4496-a123-127e948f9cb3.png" width="512px" />
-</div>
-
-<hr />
-<br />
+</div> -->
 
 ```text
-> About me:
+  About me:
 ```
 
-- :school: I am a `junior` fullstack developer
+<br />
+
+- :school: I am a `junior` web developer
 - :student: I am eager to `learn` something new
 - 🔭 I mostly write in `PHP` and `JS`
-- :computer: I like `3D graphics`, and web/UI `design`
+- :computer: I enjoy creating `3D graphics`, and working on `web design` or `user interfaces`
 
 <br />
 
 ```text
-> Languages & Tools:
+  Languages & Tools:
 ```
 
-<div>
-  <h5>Frontend:</h5>
-  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
-    <img src="https://img.shields.io/badge/HTML5-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/CSS/SCSS-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/JavaScript-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/jQuery-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/Vue.js*-blue?logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+<br />
 
-<div>
-  <h5>Backend:</h5>
-  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
-    <img src="https://img.shields.io/badge/PHP-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/Laravel-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/SQL-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/MariaDB-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/React*/ReactNative*-blue?logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+### Frontend
 
-<div>
-  <h5>Other:</h5>
-  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
-    <img src="https://img.shields.io/badge/Python-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/C++-red?logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+- HTML
+- CSS:
+  - SCSS
 
-<div>
-  <h5>Tools:</h5>
-  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
-    <img src="https://img.shields.io/badge/Composer/NPM-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/GitHub-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/Photoshop-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/Figma-red?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.t.me/MASSHUU">
-    <img src="https://img.shields.io/badge/Blender-blue?logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
-    <img src="https://img.shields.io/badge/DaVinci Resolve-red?logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+- JavaScript:
+  - React
+  - React Native
+  - TypeScript
+  - jQuery
 
-##### \*I don't have much experience with such labeled items
+### Backend
+
+- PHP:
+  - Laravel
+- MariaDB
+
+### Other
+
+- Python
+- GitHub
+- Figma
+- Photoshop
+- Blender
+- DaVinci Resolve
 
 <br />
 
 ```text
-> My stats:
+  My stats:
 ```
 
 <br />
