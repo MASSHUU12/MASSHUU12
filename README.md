@@ -16,11 +16,6 @@
 
 <br />
 
-<h1 align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=FFFFFF&center=true&vCenter=true&width=135&height=35&lines=Hello+There!" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px"/>
-</h1>
-
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/61974579/162798220-de003301-338b-4496-a123-127e948f9cb3.png" width="512px" />
 </div> -->
