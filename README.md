@@ -46,6 +46,7 @@
 - JavaScript:
   - React
   - React Native
+  - Redux
   - TypeScript
   - jQuery
 
