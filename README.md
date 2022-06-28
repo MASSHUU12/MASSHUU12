@@ -37,8 +37,6 @@
   Languages & Tools:
 ```
 
-<br />
-
 ### Frontend
 
 - HTML
@@ -68,11 +66,3 @@
 - DaVinci Resolve
 
 <br />
-
-```text
-  My stats:
-```
-
-<br />
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MASSHUU12&theme=radical)
