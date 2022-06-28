@@ -62,6 +62,7 @@
 - Python
 - GitHub
 - Figma
+- Docker
 - Photoshop
 - Blender
 - DaVinci Resolve
