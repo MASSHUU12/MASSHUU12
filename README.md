@@ -26,10 +26,12 @@
 
 <br />
 
-- :school: I am a `junior` web developer
-- :student: I am eager to `learn` something new
-- 🔭 I mostly write in `PHP` and `JS`
-- :computer: I enjoy creating `3D graphics`, and working on `web design` or `user interfaces`
+I am a 20-year-old Junior Developer from Poland.
+
+I'm a strange guy who likes to create strange things and put them into practice.
+Furthermore, I like solving problems and finding the best solutions.
+
+When I'm not playing with code, I'm playing with my cat.
 
 <br />
 
