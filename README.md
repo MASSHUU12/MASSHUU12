@@ -44,10 +44,10 @@ When I'm not playing with code, I'm playing with my cat.
 | Frontend     | Backend | Other           |
 | ------------ | ------- | --------------- |
 | HTML         | PHP     | Python          |
-| CSS          | Laravel | GitHub          |
-| SCSS         | MariaDB | Figma           |
-| JavaScript   |         | Docker          |
+| CSS/SCSS     | Laravel | GitHub          |
+| JavaScript   | MariaDB | Figma           |
+| TypeScript   |         | Docker          |
 | React        |         | Photoshop       |
 | React Native |         | Blender         |
 | Redux        |         | DaVinci Resolve |
-| Typescript   |         | Postman         |
+|              |         | Postman         |
