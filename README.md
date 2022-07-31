@@ -39,33 +39,15 @@ When I'm not playing with code, I'm playing with my cat.
   Languages & Tools:
 ```
 
-### Frontend
-
-- HTML
-- CSS:
-  - SCSS
-
-- JavaScript:
-  - React
-  - React Native
-  - Redux
-  - TypeScript
-  - jQuery
-
-### Backend
-
-- PHP:
-  - Laravel
-- MariaDB
-
-### Other
-
-- Python
-- GitHub
-- Figma
-- Docker
-- Photoshop
-- Blender
-- DaVinci Resolve
-
 <br />
+
+| Frontend     | Backend | Other           |
+| ------------ | ------- | --------------- |
+| HTML         | PHP     | Python          |
+| CSS          | Laravel | GitHub          |
+| SCSS         | MariaDB | Figma           |
+| JavaScript   |         | Docker          |
+| React        |         | Photoshop       |
+| React Native |         | Blender         |
+| Redux        |         | DaVinci Resolve |
+| Typescript   |         | Postman         |
