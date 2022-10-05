@@ -6,7 +6,7 @@
   <a href="https://www.masshuu12.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-blue?logo=about.me&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:gawrysiak.maciej@pm.me">
+  <a href="mailto:gawrysiak.maciej@proton.me">
     <img src="https://img.shields.io/badge/EMAIL-red?logo=protonmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/maciej-gawrysiak">
