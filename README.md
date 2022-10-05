@@ -3,14 +3,14 @@
 </div>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="https://www.masshuu12.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-blue?logo=about.me&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:gawrysiak.maciej@pm.me">
     <img src="https://img.shields.io/badge/EMAIL-red?logo=protonmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.masshuu12.github.io">
-    <img src="https://img.shields.io/badge/WEBSITE-blue?logo=about.me&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/maciej-gawrysiak">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
@@ -32,22 +32,3 @@ I'm a strange guy who likes to create strange things and put them into practice.
 Furthermore, I like solving problems and finding the best solutions.
 
 When I'm not playing with code, I'm playing with my cat.
-
-<br />
-
-```text
-  Languages & Tools:
-```
-
-<br />
-
-| Frontend     | Backend | Other           |
-| ------------ | ------- | --------------- |
-| HTML         | PHP     | Python          |
-| CSS/SCSS     | Laravel | GitHub          |
-| JavaScript   | MariaDB | Figma           |
-| TypeScript   |         | Docker          |
-| React        |         | Photoshop       |
-| React Native |         | Blender         |
-| Redux        |         | DaVinci Resolve |
-|              |         | Postman         |
