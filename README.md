@@ -20,15 +20,13 @@
   <img src="https://user-images.githubusercontent.com/61974579/162798220-de003301-338b-4496-a123-127e948f9cb3.png" width="512px" />
 </div> -->
 
+About me
+
 ```text
-  About me:
-```
-
-<br />
-
 I am a 20-year-old Junior Developer from Poland.
 
 I'm a strange guy who likes to create strange things and put them into practice.
 Furthermore, I like solving problems and finding the best solutions.
 
 When I'm not playing with code, I'm playing with my cat.
+```
