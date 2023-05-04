@@ -23,7 +23,7 @@
 About me
 
 ```text
-I am a 20-year-old Junior Developer from Poland.
+I am a 21-year-old Junior Developer from Poland.
 
 I'm a strange guy who likes to create strange things and put them into practice.
 Furthermore, I like solving problems and finding the best solutions.
